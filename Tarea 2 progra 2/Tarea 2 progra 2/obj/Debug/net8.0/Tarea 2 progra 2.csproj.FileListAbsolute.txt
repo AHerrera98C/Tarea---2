@@ -1,0 +1,14 @@
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\obj\Debug\net8.0\Tarea 2 progra 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\obj\Debug\net8.0\Tarea 2 progra 2.AssemblyInfoInputs.cache
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\obj\Debug\net8.0\Tarea 2 progra 2.AssemblyInfo.cs
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\obj\Debug\net8.0\Tarea 2 progra 2.csproj.CoreCompileInputs.cache
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\bin\Debug\net8.0\Tarea 2 progra 2.exe
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\bin\Debug\net8.0\Tarea 2 progra 2.deps.json
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\bin\Debug\net8.0\Tarea 2 progra 2.runtimeconfig.json
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\bin\Debug\net8.0\Tarea 2 progra 2.dll
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\bin\Debug\net8.0\Tarea 2 progra 2.pdb
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\obj\Debug\net8.0\Tarea 2 progra 2.dll
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\obj\Debug\net8.0\refint\Tarea 2 progra 2.dll
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\obj\Debug\net8.0\Tarea 2 progra 2.pdb
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\obj\Debug\net8.0\Tarea 2 progra 2.genruntimeconfig.cache
+C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra 2\Tarea 2 progra 2\obj\Debug\net8.0\ref\Tarea 2 progra 2.dll

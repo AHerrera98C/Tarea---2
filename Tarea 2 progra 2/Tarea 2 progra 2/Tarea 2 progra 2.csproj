@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Tarea_2_progra_2</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Invitado\OneDrive\Documents\Q1 Progrmacion 2\Semana 2\Tarea 2 progra - 2.cs" Link="Tarea 2 progra - 2.cs" />
+  </ItemGroup>
+
+</Project>
